@@ -5,12 +5,14 @@
 <img src="images/submissionDB.png" alt="alt text" width="600">
 
 ## Step 2: Create the student table
+
 - username: String (VARCHAR), up to 50 characters.
   
 <img src="images/Student tbl.png" alt="alt text" width="600">
 
 
 ## Step 3: Create the assignment table
+
 - shortname: String (VARCHAR), up to 50 characters.
 - due_date: DATE, cannot be null.
 - url: String (VARCHAR), up to 255 characters, can be null.
@@ -19,6 +21,7 @@
 
 
 ## Step 4: Create the submission table
+
 - username:String (VARCHAR), up to 50 characters.
 - shortname: String (VARCHAR), up to 50 characters.
 - version: Integer, represent the version of the submission.
@@ -29,7 +32,7 @@
  <img src="images/submission tbl.png" alt="alt text" width="600">
 
 
-## Copy of ER Diagram
+### Copy of ER Diagram
 
   <img src="images/ERD.png" alt="alt text" width="600">
 
