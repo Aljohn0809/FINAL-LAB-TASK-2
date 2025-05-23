@@ -32,7 +32,7 @@
  <img src="images/submission tbl.png" alt="alt text" width="600">
 
 
-### Copy of ER Diagram**
+### Copy of ER Diagram
 
   <img src="images/ERD.png" alt="alt text" width="600">
 
